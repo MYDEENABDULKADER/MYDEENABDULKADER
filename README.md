@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA Graduate <br>Pursuing MCA<br>Eager to learn to new things<br>
+ <br>Pursuing MCA<br>Eager to learn to new things<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MYDEENABDULKADER &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
